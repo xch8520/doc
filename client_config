@@ -1,0 +1,13 @@
+oci=begin
+
+[DEFAULT]
+user=ocid1.user.oc1..aaaaaaaatze4jr5ih5gr4nmczztaubfsoj5k5tnl4pkdw7s6ajo3udwiwjka
+fingerprint=8f:2a:93:2b:cf:40:09:2a:6c:fc:64:4b:95:2b:7d:40
+tenancy=ocid1.tenancy.oc1..aaaaaaaaurjgy4wlrgjzke74nakvey2drupcca4znz5fnr7oxomq3tmap45q
+region=us-phoenix-1
+key_file=/root/key.pem
+
+oci=end
+
+username=ddb584326d2a4933aaa1118bd6580086
+password=a666b7e34db44b3689b645aba059f759
